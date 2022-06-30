@@ -101,11 +101,11 @@
 	      <url>http://34.204.10.23:8081/repository/snapshot/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
 	      <url>http://34.204.10.23:8081/repository/release/</url>
-	    </snapshotRepository>
+	    </repository>
 	    
 	</distributionManagement>
 	
