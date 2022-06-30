@@ -20,7 +20,7 @@
 		Mithun Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
+		+91-7569740723,
 		devopstrainingbr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Kalyan Technologies</a>
