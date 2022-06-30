@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<version>1.01.0</version>
+	<version>03.08.01</version>
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
